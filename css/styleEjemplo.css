@@ -18,18 +18,9 @@ a:link {
     
 }
 
-
-a:visited {
-    text-decoration: none;
-}
-
 a:hover {
     text-decoration: none;
  
-}
-
-a:active {
-    text-decoration: none;
 }
 
 .nopadding {
@@ -51,10 +42,8 @@ a:active {
   line-height:50px;
   font-weight: bold;
 }
-body {background-color: black;}
 
-canvas {vertical-align: top;
-  background-color: black;
-}
+
+canvas {vertical-align: top;}
 
 
