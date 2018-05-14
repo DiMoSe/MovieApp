@@ -5,7 +5,7 @@
  * Diego Morales
  * 
  *
- * URL: https://vixra.github.io/
+ * URL: https://dimose.github.io/MovieApp/
  *
 
 /*
