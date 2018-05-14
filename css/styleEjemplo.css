@@ -1,0 +1,60 @@
+.navbar-default {
+  height: 100px;
+  background-color: rgb(44,49,87);
+  font-size: 25px;
+  padding: 0;
+  border: none;
+  color: white;
+}
+
+button {
+  background-color: rgb(44,49,87);
+}
+
+a:link {
+    text-decoration: none;
+ 
+    /*background-color: #e2e4e6;*/
+    
+}
+
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: none;
+ 
+}
+
+a:active {
+    text-decoration: none;
+}
+
+.nopadding {
+  padding: 0;
+  margin: 0;
+  border: none;
+}
+
+.text {
+  text-align: center;
+  line-height: 80px;
+  color: white;
+  font-weight: bold;
+}
+
+.text2 {
+  text-align: center;
+  font-size: 40px;
+  line-height:50px;
+  font-weight: bold;
+}
+body {background-color: black;}
+
+canvas {vertical-align: top;
+  background-color: black;
+}
+
+
