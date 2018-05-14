@@ -32,7 +32,7 @@ LIFE CYCLE METHODS
 */
 
 function setup() {
-  createCanvas(1920, 1080);
+  createCanvas(1920, 700);
   var button = select("#movie");
   var button2 = select("#actor");
   button.mousePressed(movieInfo);
