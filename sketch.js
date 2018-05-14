@@ -45,7 +45,7 @@ function draw() {
   imageMode(CENTER);
   textAlign(CENTER);
   fill(255);
-  text("If button is not working after 5 tries please reload page", width / 2, 650);
+  text("If button is not working after 5 tries please reload page", width / 2, 1250);
   if (acPic) {
 
     image(acPic, width / 2, 250);
